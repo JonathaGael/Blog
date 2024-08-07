@@ -1,0 +1,10 @@
+body {
+    color: #a21aa7;
+    background-color: #815fff;
+}
+
+.imagen {
+    width: 40%;
+    border: 1px solid #1B4F72;
+    float: right;
+}

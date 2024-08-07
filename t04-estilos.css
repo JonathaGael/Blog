@@ -1,0 +1,25 @@
+html{
+background-color: blueviolet;
+}
+#parte-1{
+    width: 85%;
+background-color: #60a0b0;
+color:#1b335f;
+}
+#parte-2{
+    padding-left:57px ;
+    padding-top:45px ;
+    padding-bottom:45px ;
+    width: 81%;
+background-color: #60a0b0;
+}
+#parte-3{
+    width: 85%;
+background-color: #c3195d;
+color:#f6e4ad;
+}
+.parte-4{
+    width: 85%;
+background-color: #42b883;
+color:darkslategray;
+}
